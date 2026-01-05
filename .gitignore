@@ -1,0 +1,17 @@
+# Virtual environment & IDE
+.venv/
+.idea/
+
+# Python cache
+__pycache__/
+
+# Test & experiment files
+test_*.py
+check_*.py
+hand_*.py
+virtualMouse.py
+
+# Images & outputs
+*.png
+*.jpg
+*.jpeg
