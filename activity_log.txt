@@ -1,0 +1,79 @@
+20:21:13 - Voice Assistant Started
+20:21:25 - Study Mode Activated
+20:21:50 - Unknown Command
+20:22:03 - Smart Light ON
+20:22:21 - Smart Light ON
+20:22:34 - Unknown Command
+20:22:42 - Unknown Command
+20:22:53 - Presentation Mode Activated
+20:25:38 - Voice Assistant Started
+20:25:46 - Study Mode Activated
+20:26:36 - Presentation Mode Activated
+20:26:55 - Emergency Stop Triggered
+20:27:17 - Blocked command attempted
+20:27:29 - Presentation Mode Activated
+20:29:02 - Emergency Stop Triggered
+20:30:38 - Emergency Stop Triggered
+20:35:11 - Next Slide
+20:35:14 - Right Click
+20:35:17 - Next Slide
+20:35:18 - Left Click
+20:35:20 - Left Click
+20:35:22 - Next Slide
+20:35:22 - Left Click
+20:35:25 - Right Click
+20:35:27 - Left Click
+20:35:28 - Next Slide
+20:35:30 - Right Click
+20:35:32 - Left Click
+20:35:33 - Next Slide
+20:35:36 - Left Click
+20:35:38 - Left Click
+20:35:38 - Next Slide
+20:35:40 - Left Click
+20:35:42 - Left Click
+20:35:44 - Left Click
+20:35:50 - Right Click
+20:35:51 - Next Slide
+20:35:54 - Left Click
+20:35:54 - Next Slide
+20:35:57 - Next Slide
+20:36:04 - Previous Slide
+20:36:10 - Left Click
+20:36:13 - Left Click
+20:36:29 - Next Slide
+20:36:32 - Next Slide
+20:36:45 - Previous Slide
+20:36:56 - Previous Slide
+20:37:02 - Next Slide
+20:37:04 - Left Click
+20:37:07 - Next Slide
+20:37:10 - Left Click
+20:37:34 - Next Slide
+20:37:39 - Next Slide
+20:37:55 - Previous Slide
+20:38:08 - Left Click
+20:38:11 - Previous Slide
+20:38:14 - Previous Slide
+20:38:17 - Left Click
+20:38:20 - Next Slide
+20:38:22 - Left Click
+20:38:23 - Left Click
+20:38:31 - Previous Slide
+20:38:41 - Previous Slide
+20:38:46 - Previous Slide
+20:38:48 - Left Click
+20:38:53 - Left Click
+20:38:55 - Previous Slide
+20:38:59 - Previous Slide
+20:39:09 - Left Click
+20:39:10 - Next Slide
+20:39:44 - Left Click
+20:39:44 - Next Slide
+20:39:48 - Next Slide
+20:39:52 - Next Slide
+20:39:56 - Next Slide
+20:40:00 - Previous Slide
+20:40:02 - Previous Slide
+20:40:07 - Previous Slide
+20:40:10 - Previous Slide
