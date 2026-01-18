@@ -15,3 +15,8 @@ virtualMouse.py
 *.png
 *.jpg
 *.jpeg
+
+# Runtime generated files
+mode.txt
+activity_log.txt
+
